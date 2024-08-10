@@ -3,23 +3,23 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "94767146957"
-global.ownername = "💛 MR Kaviz "
+global.ownernomer = "94773115780"
+global.ownername = "💛 MR Gayantha "
 global.ytname = "YT: Dont have"
 global.socialm = "GitHub: private"
 global.location = "Pakistan, Lahore"
 
-global.ownernumber = '94767146957'  //creator number
-global.ownername = ' MR Kaviz ' //owner name
+global.ownernumber = '94773115780'  //creator number
+global.ownername = ' MR Gayantha ' //owner name
 global.botname = 'WASI TECH BUG BOT ' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'WASI'
+global.author = 'GAYANTHA'
 
 //console view/theme
 global.themeemoji = '🪀'
-global.wm = "DK TECH"
+global.wm = "GAYANTHA PRABOD"
 
 //theme link
 global.link = 'https://whatsapp.com'
